@@ -1,0 +1,14 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "name": "Netflix",
+      "address": "lakebanetflix@sharedinbox.com"
+    },
+    {
+      "id": 2,
+      "name": "Water bills",
+      "address": "lakebawater@sharedinbox.com"
+    }
+  ]
+}
