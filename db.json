@@ -35,6 +35,12 @@
           "name": "Flavio Tulino",
           "email": "flavio.tulino@gmail.com",
           "status": "pending"
+        },
+        {
+          "id": 1,
+          "name": "Hester House",
+          "email": "lewisham@gov.uk",
+          "status": "accepted"
         }
       ]
     }
