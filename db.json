@@ -3,12 +3,40 @@
     {
       "id": 1,
       "name": "Netflix",
-      "address": "lakebanetflix@sharedinbox.com"
+      "address": "lakebanetflix@sharedinbox.com",
+      "users": [
+        {
+          "id": 1023,
+          "name": "Flavio Tulino",
+          "email": "flavio.tulino@gmail.com",
+          "status": "pending"
+        },
+        {
+          "id": 24253,
+          "name": "Mirko Zammartino",
+          "email": "zammartino.m@gmail.com",
+          "status": "accepted"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Water bills",
-      "address": "lakebawater@sharedinbox.com"
+      "address": "lakebawater@sharedinbox.com",
+      "users": [
+        {
+          "id": 3333,
+          "name": "Anna Chiara Ferraro",
+          "email": "annachiaraferraro@gmail.com",
+          "status": "pending"
+        },
+        {
+          "id": 1023,
+          "name": "Flavio Tulino",
+          "email": "flavio.tulino@gmail.com",
+          "status": "pending"
+        },
+      ]
     }
   ]
 }
